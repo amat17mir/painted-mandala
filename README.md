@@ -1,6 +1,6 @@
 # the painted mandala
 
-pretty unfamiliar with github pages so this is a test run to see how it might be useful.
+pretty unfamiliar with github pages so this is a test run to see how this might be useful.
 
 ### test run to see how pictures are displayed.
 
